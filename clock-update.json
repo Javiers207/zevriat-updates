@@ -1,7 +1,7 @@
 {
-  "latestBuild": 3,
-  "latestVersion": "1.0.2",
-  "downloadUrl": "https://github.com/Javiers207/zevriat-updates/releases/download/clock-v1.0.2/ZEVRIAT-Reloj-Setup-1.0.2.exe",
+  "latestBuild": 4,
+  "latestVersion": "1.0.3",
+  "downloadUrl": "https://github.com/Javiers207/zevriat-updates/releases/download/clock-v1.0.3/ZEVRIAT-Reloj-Setup-1.0.3.exe",
   "required": false,
-  "message": "Actualización de ZEVRIAT Reloj 1.0.2."
+  "message": "Actualización de ZEVRIAT Reloj 1.0.3."
 }
