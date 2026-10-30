@@ -1,8 +1,8 @@
 {
-  "latestBuild": 13,
-  "latestVersion": "1.0.12",
-  "downloadUrl": "https://github.com/Javiers207/zevriat-updates/releases/download/reloj-1.0.12/ZEVRIAT-Reloj-Setup-1.0.12.exe",
-  "sha256": "07cc750e4d5df31030207749717b53ab57b4d4e9cb3b6115025507efa077758e",
-  "message": "Actualizando ZEVRIAT Reloj a la versión 1.0.12.",
+  "latestBuild": 14,
+  "latestVersion": "1.0.13",
+  "downloadUrl": "https://github.com/Javiers207/zevriat-updates/releases/download/reloj-1.0.13/ZEVRIAT-Reloj-Setup-1.0.13.exe",
+  "sha256": "220e33b96ff385539a69907eb0ef9598c706f39e0dfd4172edc13cb7b4032a77",
+  "message": "Actualizando ZEVRIAT Reloj a la versión 1.0.13.",
   "required": false
 }
